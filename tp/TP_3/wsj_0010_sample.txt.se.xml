@@ -1,0 +1,88 @@
+<specific_entities>
+<specific_entity>
+  <string>125</string>
+  <position>427</position>
+  <length>3</length>
+  <type>Numex.NUMBER</type>
+  <normalization>
+    <value>125</value>
+    <numvalue>125</numvalue>
+    <value>125</value>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>National Association</string>
+  <position>187</position>
+  <length>20</length>
+  <type>Organization.ORGANIZATION</type>
+  <normalization>
+    <value>national association</value>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>Rust</string>
+  <position>480</position>
+  <length>4</length>
+  <type>Organization.ORGANIZATION</type>
+  <normalization>
+    <value>rust</value>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>Boca</string>
+  <position>138</position>
+  <length>4</length>
+  <type>Person.PERSON</type>
+  <normalization>
+    <value>Boca</value>
+    <lastname></lastname>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>Hoosier</string>
+  <position>240</position>
+  <length>7</length>
+  <type>Person.PERSON</type>
+  <normalization>
+    <value>Hoosier</value>
+    <lastname></lastname>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>Rust</string>
+  <position>480</position>
+  <length>4</length>
+  <type>Person.PERSON</type>
+  <normalization>
+    <value>Rust</value>
+    <lastname></lastname>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>Boca Raton</string>
+  <position>138</position>
+  <length>10</length>
+  <type>Location.LOCATION</type>
+  <normalization>
+    <value>Boca Raton</value>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>Indianapolis</string>
+  <position>259</position>
+  <length>12</length>
+  <type>Location.LOCATION</type>
+  <normalization>
+    <value>Indianapolis</value>
+  </normalization>
+</specific_entity>
+<specific_entity>
+  <string>Rust Belt</string>
+  <position>480</position>
+  <length>9</length>
+  <type>Location.LOCATION</type>
+  <normalization>
+    <value>Rust belt</value>
+  </normalization>
+</specific_entity>
+</specific_entities>

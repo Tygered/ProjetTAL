@@ -1,0 +1,3 @@
+voir les fichiers generes
+un fait un xml avec les mots et leurs categorie
+un represente les differences instances / personnes / organizations etc. 

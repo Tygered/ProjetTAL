@@ -1,0 +1,126 @@
+# global.columns = = ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	DEPS	MISC
+# sent_id = 1
+# text = When it's time for their biannual powwow, the nation's manufacturing titans typically jet off to the sunny confines of resort towns like Boca Raton and Hot Springs.
+1	When	when	ADV	_	_	_	_	_	Pos=1|Len=4
+2	it	it	PRON	_	_	3	SUJ_V	_	Pos=6|Len=2|SpaceAfter=No
+3	's	be	VERB	_	_	_	_	_	Pos=8|Len=2
+4	time	time	NOUN	_	_	3	COD_V	_	Pos=11|Len=4
+5	for	for	ADP	_	_	6	Dummy	_	Pos=16|Len=3
+6	their	their	PRON	_	_	8	det	_	Pos=20|Len=5
+7	biannual	biannual	ADJ	_	_	8	ADJPRENSUB	_	Pos=26|Len=8
+8	powwow	powwow	NOUN	_	_	9	Dummy	_	Pos=35|Len=6|SpaceAfter=No
+9	,	,	COMMA	_	_	10	Dummy	_	Pos=41|Len=1
+10	the	the	DET	_	_	13	det	_	Pos=43|Len=3
+11	nation	nation	NOUN	_	_	12	ADJPRENSUB	_	Pos=47|Len=6
+12	manufacturing	manufacturing	NOUN	_	_	13	ADJPRENSUB	_	Pos=56|Len=13
+13	titans	titan	NOUN	_	_	15	SUJ_V	_	Pos=70|Len=6
+14	typically	typically	ADV	_	_	15	AdvVerbe	_	Pos=77|Len=9
+15	jet off	jet off	VERB	_	_	_	_	_	Pos=87|Len=7
+16	to	to	ADP	_	_	19	PREPSUB	_	Pos=95|Len=2
+17	the	the	DET	_	_	19	det	_	Pos=98|Len=3
+18	sunny	sunny	ADJ	_	_	19	ADJPRENSUB	_	Pos=102|Len=5
+19	confines	confines	NOUN	_	_	15	CPL_V	_	Pos=108|Len=8
+20	of	of	ADP	_	_	22	PREPSUB	_	Pos=117|Len=2
+21	resort	resort	NOUN	_	_	22	ADJPRENSUB	_	Pos=120|Len=6
+22	towns	town	NOUN	_	_	19	COMPDUNOM	_	Pos=127|Len=5
+23	like	like	ADP	_	_	24	PREPSUB	_	Pos=133|Len=4
+24	Boca	Boca	PROPN	_	_	_	_	_	NE=Location.LOCATION|Pos=138|Len=4
+25	Raton	Raton	PROPN	_	_	_	_	_	NE=Location.LOCATION|Pos=143|Len=5
+26	and	and	CONJ	_	_	26	Dummy	_	Pos=149|Len=3
+27	Hot Springs	Hot Springs	PROPN	_	_	27	Dummy	_	Pos=153|Len=11|SpaceAfter=No
+28	.	.	SENT	_	_	_	Dummy	_	Pos=164|Len=1
+
+# sent_id = 2
+# text = Not this year.
+1	Not	Not	ADV	_	_	2	Dummy	_	Pos=167|Len=3
+2	this	this	DET	_	_	3	det	_	Pos=171|Len=4
+3	year	year	NOUN	_	_	4	Dummy	_	Pos=176|Len=4|SpaceAfter=No
+4	.	.	SENT	_	_	_	_	_	Pos=180|Len=1
+
+# sent_id = 3
+# text = The National Association of Manufacturers settled on the Hoosier capital of Indianapolis for its fall board meeting.
+1	The	the	DET	_	_	2	det	_	Pos=183|Len=3
+2	National	national	NOUN	_	_	_	_	_	NE=Organization.ORGANIZATION|Pos=187|Len=8
+3	Association	association	NOUN	_	_	_	_	_	NE=Organization.ORGANIZATION|Pos=196|Len=11
+4	of	of	ADP	_	_	4	PREPSUB	_	Pos=208|Len=2
+5	Manufacturers	manufacturer	NOUN	_	_	2	COMPDUNOM	_	Pos=211|Len=13
+6	settled	settle	VERB	_	_	_	_	_	Pos=225|Len=7
+7	on	on	ADP	_	_	9	PREPSUB	_	Pos=233|Len=2
+8	the	the	DET	_	_	9	det	_	Pos=236|Len=3
+9	Hoosier	Hoosier	PROPN	_	_	_	_	_	NE=Person.PERSON|Pos=240|Len=7
+10	capital	capital	NOUN	_	_	5	CPL_V	_	Pos=248|Len=7
+11	of	of	ADP	_	_	11	PREPSUB	_	Pos=256|Len=2
+12	Indianapolis	Indianapolis	PROPN	_	_	_	_	_	NE=Location.LOCATION|Pos=259|Len=12
+13	for	for	ADP	_	_	13	Dummy	_	Pos=272|Len=3
+14	its	its	PRON	_	_	16	det	_	Pos=276|Len=3
+15	fall	fall	NOUN	_	_	15	ADJPRENSUB	_	Pos=280|Len=4
+16	board	board	NOUN	_	_	16	ADJPRENSUB	_	Pos=285|Len=5
+17	meeting	meeting	NOUN	_	_	17	Dummy	_	Pos=291|Len=7|SpaceAfter=No
+18	.	.	SENT	_	_	_	Dummy	_	Pos=298|Len=1
+
+# sent_id = 4
+# text = And the city decided to treat its guests more like royalty or rock stars than factory owners.
+1	And	and	CONJ	_	_	2	Dummy	_	Pos=300|Len=3
+2	the	the	DET	_	_	3	det	_	Pos=304|Len=3
+3	city	city	NOUN	_	_	4	SUJ_V	_	Pos=308|Len=4
+4	decided	decide	VERB	_	_	_	_	_	Pos=313|Len=7
+5	to	to	ADP	_	_	6	PrepInf	_	Pos=321|Len=2
+6	treat	treat	VERB	_	_	4	CPLV_V	_	Pos=324|Len=5
+7	its	its	PRON	_	_	8	det	_	Pos=330|Len=3
+8	guests	guest	NOUN	_	_	6	COD_V	_	Pos=334|Len=6
+9	more	many	ADV	_	_	8	AdvSub	_	Pos=341|Len=4
+10	like	like	ADP	_	_	11	PREPSUB	_	Pos=346|Len=4
+11	royalty	royalty	NOUN	_	_	9	COMPADV	_	Pos=351|Len=7
+12	or	or	CONJ	_	_	11	COORD1	_	Pos=359|Len=2
+13	rock	rock	NOUN	_	_	14	ADJPRENSUB	_	Pos=362|Len=4
+14	stars	star	NOUN	_	_	_	_	_	Pos=367|Len=5
+15	than	than	ADP	_	_	17	PREPSUB	_	Pos=373|Len=4
+16	factory	factory	NOUN	_	_	17	ADJPRENSUB	_	Pos=378|Len=7
+17	owners	owner	NOUN	_	_	14	COMPDUNOM	_	Pos=386|Len=6|SpaceAfter=No
+18	.	.	SENT	_	_	_	_	_	Pos=392|Len=1
+
+# sent_id = 5
+# text = The idea, of course:
+1	The	the	DET	_	_	2	det	_	Pos=394|Len=3
+2	idea	idea	NOUN	_	_	3	Dummy	_	Pos=398|Len=4|SpaceAfter=No
+3	,	,	COMMA	_	_	4	Dummy	_	Pos=402|Len=1
+4	of course	of course	ADV	_	_	5	Dummy	_	Pos=404|Len=9|SpaceAfter=No
+5	:	:	COLON	_	_	_	_	_	Pos=413|Len=1
+
+# sent_id = 6
+# text = to prove to 125 corporate decision makers that the buckle on the Rust Belt isn't so rusty after all, that it's a good place for a company to expand.
+1	to	to	ADP	_	_	2	PrepInf	_	Pos=415|Len=2
+2	prove	prove	VERB	_	_	3	Dummy	_	Pos=418|Len=5
+3	to	to	ADP	_	_	4	Dummy	_	Pos=424|Len=2
+4	125	125	NUM	_	_	_	_	_	NE=Numex.NUMBER|Pos=427|Len=3
+5	corporate	corporate	ADJ	_	_	7	ADJPRENSUB	_	Pos=431|Len=9
+6	decision	decision	NOUN	_	_	7	ADJPRENSUB	_	Pos=441|Len=8
+7	makers	maker	NOUN	_	_	14	SUJ_V	_	Pos=450|Len=6
+8	that	that	SCONJ	_	_	9	Dummy	_	Pos=457|Len=4
+9	the	the	DET	_	_	10	det	_	Pos=462|Len=3
+10	buckle	buckle	NOUN	_	_	14	SUJ_V	_	Pos=466|Len=6
+11	on	on	ADP	_	_	13	PREPSUB	_	Pos=473|Len=2
+12	the	the	DET	_	_	13	det	_	Pos=476|Len=3
+13	Rust	Rust	PROPN	_	_	_	_	_	NE=Location.LOCATION|Pos=480|Len=4
+14	Belt	belt	NOUN	_	_	_	_	_	NE=Location.LOCATION|Pos=485|Len=4
+15	is	be	VERB	_	_	_	_	_	Pos=490|Len=2|SpaceAfter=No
+16	n't	not	PART	_	_	16	ADVADV	_	Pos=492|Len=3
+17	so	so	ADV	_	_	17	ADVADJ	_	Pos=496|Len=2
+18	rusty	rusty	ADJ	_	_	14	ATB_S	_	Pos=499|Len=5
+19	after	after	ADP	_	_	19	Dummy	_	Pos=505|Len=5
+20	all	all	DET	_	_	20	Dummy	_	Pos=511|Len=3|SpaceAfter=No
+21	,	,	COMMA	_	_	21	Dummy	_	Pos=514|Len=1
+22	that	that	SCONJ	_	_	22	Dummy	_	Pos=516|Len=4
+23	it	it	PRON	_	_	23	SUJ_V	_	Pos=521|Len=2|SpaceAfter=No
+24	's	be	VERB	_	_	_	_	_	Pos=523|Len=2
+25	a	a	DET	_	_	26	det	_	Pos=526|Len=1
+26	good	good	ADJ	_	_	26	ADJPRENSUB	_	Pos=528|Len=4
+27	place	place	NOUN	_	_	23	COD_V	_	Pos=533|Len=5
+28	for	for	ADP	_	_	29	PREPSUB	_	Pos=539|Len=3
+29	a	a	DET	_	_	29	det	_	Pos=543|Len=1
+30	company	company	NOUN	_	_	26	COMPDUNOM	_	Pos=545|Len=7
+31	to	to	ADP	_	_	31	PrepInf	_	Pos=553|Len=2
+32	expand	expand	VERB	_	_	29	MOD_N	_	Pos=556|Len=6|SpaceAfter=No
+33	.	.	SENT	_	_	_	_	_	Pos=562|Len=1
+
+
